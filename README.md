@@ -20,3 +20,15 @@ chmod -R 755 Ubuntu-set
 cd Ubuntu-set/
 sudo ./Ubuntu-set0
 ```
+
+## HOW TO?
+
+### vim
+vim은 .vimrc파일에 설정 값을 넣으면 부팅할때마다 그 설정에 따라 vim편집기가 열리게 된다.
+
+```jsx
+cd ~
+vi .vimrc
+```
+
+로 .vimrc파일을 만들어주고
