@@ -15,9 +15,8 @@
 
 우분투 기본세팅 설정하기
 ```jsx
-sudo rm -rf LCD-show
 git clone https://github.com/seonghun-dev/Ubuntu-set.git
-chmod -R 755 LCD-show
-cd LCD-show/
-sudo ./LCD35-show
+chmod -R 755 Ubuntu-set
+cd Ubuntu-set/
+sudo ./Ubuntu-set0
 ```
