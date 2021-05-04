@@ -1,7 +1,7 @@
 # 우분투 기본 세팅
 <div align="center">
   <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ubuntu_and_Ubuntu_Server_Icon.png" width="200" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ubuntu_and_Ubuntu_Server_Icon.png" width="100" />
   <br/>
   <br/>
   <p>
