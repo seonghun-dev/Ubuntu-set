@@ -13,6 +13,7 @@
 
 ## :mega: 소개
 
+우분투 기본세팅 설정하기
 ```jsx
 sudo rm -rf LCD-show
 git clone https://github.com/seonghun-dev/Ubuntu-set.git
