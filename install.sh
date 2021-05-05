@@ -16,3 +16,7 @@ echo "written by seonghun"
 rm -r ~/.local/
 mkdir -p ~/.local/share/Trash/files/
 rm install.sh
+cd ..
+rm -r Ubuntu-set
+echo "Done."
+echo "Thx for using it"

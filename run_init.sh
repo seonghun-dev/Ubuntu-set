@@ -26,7 +26,7 @@ alias b='popd'     #pin한 위치로 이동
 
 #휴지통 기능
 alias rm='mv -t ~/.local/share/Trash/files'
-alias trash="cd ~/.local/share/Trash/files'
+alias trash='cd ~/.local/share/Trash/files'
 
 #환경변수 추가(보안상 추천X)
 export PATH=./:$PATH
