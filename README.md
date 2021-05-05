@@ -16,9 +16,9 @@
 우분투 기본세팅 설정하기-자동 설정
 ```jsx
 git clone https://github.com/seonghun-dev/Ubuntu-set.git
-chmod -R 755 Ubuntu-set
 cd Ubuntu-set/
-sudo ./Ubuntu-set0
+sudo su
+sh install.sh
 ```
 
 
