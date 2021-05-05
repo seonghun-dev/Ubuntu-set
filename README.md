@@ -21,6 +21,13 @@ cd Ubuntu-set/
 sudo ./Ubuntu-set0
 ```
 
+
+1. explorer.exe .
+2. gcc -W -Wall
+3. cc = clear
+4. 휴지통
+
+
 ## HOW TO?
 
 ### vim
