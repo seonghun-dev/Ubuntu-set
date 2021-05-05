@@ -22,10 +22,10 @@ sudo ./Ubuntu-set0
 ```
 
 
-1. explorer.exe .
-2. gcc -W -Wall
-3. cc = clear
-4. 휴지통
+1. 빠른 파일 탐색기 [단축키:e]
+3. gcc -W -Wall
+4. cc = clear
+5. 휴지통
 
 
 ## HOW TO?
