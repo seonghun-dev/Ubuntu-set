@@ -13,20 +13,13 @@ alias e='explorer.exe .'
 alias shutdown='sudo shutdown -h now'
 alias reboot='sudo shutdown -r now'
 
-#컴파일 확인
 alias gccw='gcc -o a -W -Wall'
 alias g='gcc -o a'
 
-#화면처리
 alias cc='clear'
 
-#현재 위치 핀
-alias p='pushd ./'  #현재 위치 pin
-alias b='popd'     #pin한 위치로 이동
+alias p='pushd ./'
+alias b='popd'
 
-#휴지통 기능
 alias rm='mv -t ~/.local/share/Trash/files'
 alias trash='cd ~/.local/share/Trash/files'
-
-#환경변수 추가(보안상 추천X)
-export PATH=./:$PATH
