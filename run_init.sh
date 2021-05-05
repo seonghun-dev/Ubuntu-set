@@ -17,7 +17,7 @@ alias reboot='sudo shutdown -r now'
 alias gccw='gcc -o a -W -Wall'
 alias g='gcc -o a'
 
-#화면저리
+#화면처리
 alias cc='clear'
 
 #현재 위치 핀
