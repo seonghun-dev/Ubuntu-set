@@ -11,7 +11,7 @@
 </div>
 
 
-## :mega: 소개
+## :mega: 설치법
 
 우분투 기본세팅 설정하기-자동 설정
 
@@ -26,6 +26,8 @@ sed -i -e 's/\r$//' install.sh
 sh install.sh
 ```
 
+
+## :mega: 제공기능
 
 1. 빠른 파일 탐색기 [단축키:e]
    단축 명령어 e로 explorer.exe . 실행
