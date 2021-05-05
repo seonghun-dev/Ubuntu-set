@@ -1,9 +1,10 @@
 #!/bin/bash
-chmod -R 755 Ubuntu-set
-cd Ubuntu-set
 
 sudo su
-sudo ./Ubuntu-set0
+cd /
+cd etc
+cd profile.d
+mv -f run_init.sh /etc/profile.d/run_init.sh
 
 
 echo " _   _  _                    _                              _   "
