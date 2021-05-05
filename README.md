@@ -16,10 +16,7 @@
 우분투 기본세팅 설정하기-자동 설정
 
 
-명령창에 다음 명령어 입력
-
-
-[복사한 후 wsl환경에서 마우스 오른쪽 버튼 클릭하면 복사 완료]
+명령창에 다음 명령어 입력  [복사한 후 wsl환경에서 마우스 오른쪽 버튼 클릭하면 복사 완료]
 
 ```jsx
 git clone https://github.com/seonghun-dev/Ubuntu-set.git
