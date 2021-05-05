@@ -1,5 +1,6 @@
 #!/bin/bash
 rm /etc/profile.d/run_init.sh
+$sed -i -e 's/\r$//' run_init.sh
 mv -f run_init.sh /etc/profile.d
 
 echo " _   _  _                    _                              _   "
