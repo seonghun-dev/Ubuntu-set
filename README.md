@@ -23,6 +23,7 @@ git clone https://github.com/seonghun-dev/Ubuntu-set.git
 cd Ubuntu-set/
 sudo su
 sed -i -e 's/\r$//' install.sh
+sed -i -e 's/\r$//' run_init.sh
 sh install.sh
 ```
 
