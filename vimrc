@@ -70,5 +70,5 @@ map <F1> :wq<CR>
 map <F2> :set nu<CR>
 map <F3> :set nonu<CR>
 map <space> i
-map <F3> :set paste<CR>
+map <F4> :set paste<CR>
 
