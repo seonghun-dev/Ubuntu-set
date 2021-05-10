@@ -16,17 +16,9 @@ echo "written by seonghun"
 #휴지통 만들기
 rm -r ~/.local/
 mkdir -p ~/.local/share/Trash/files/
-
-CreateDIR=~/.local/share/Trash/files/
-
-# 지정한 경로에 폴더가 존재하지 않으면 폴더를 생성
-if [ ! -d $CreateDIR ]; then
-		  mkdir -p $CreateDIR
-fi
-
 $sed -i -e 's/\r$//' vimrc
 mv -f vimrc /etc/vim/vimrc
-cd ...
+cd ..
 rm -r Ubuntu-set
 echo "Done."
 echo "Thx for using it"

@@ -7,7 +7,6 @@ printf "$timestamp"
 echo " 입니다."
 echo "현재폴더의 파일은 다음과 같습니다."
 ls
-echo ""
 
 alias e='explorer.exe .'
 alias shutdown='sudo shutdown -h now'
