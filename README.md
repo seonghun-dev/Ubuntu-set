@@ -22,8 +22,6 @@
 git clone https://github.com/seonghun-dev/Ubuntu-set.git
 cd Ubuntu-set/
 sudo su
-sed -i -e 's/\r$//' install.sh
-sed -i -e 's/\r$//' run_init.sh
 sh install.sh
 ```
 
@@ -66,7 +64,23 @@ sh install.sh
    
    cc명령어 실행시 clear 명령어 실행
    
+## :mega: Vim 기능
+### 1. Space로 빠른 편집모드 들어가기
 
+
+   한글로 설정시 i키를 눌러도 바로 편집모드로 들어가지 않는 방법 해결
+   
+   
+### 2. <esc>+<f1> 키를 통한 빠른 종료
+  esc키를 누르고 f1키를 누르면 저장후 종료시킴
+  
+  
+### 3. Vim 마지막으로 수정된 위치 기록
+  마지막 수정된 커서 위치 기억  
+  
+### 4. <f2>키로 빠른 번호 표시, <f3>키로 번호 해제
+  <f2>키로 빠른 번호 표시, <f3>키로 번호 해제
+  
 ## HOW TO?
 ```jsx
 alias 별명 = '명령어 정의'
